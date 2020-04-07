@@ -1,5 +1,5 @@
 const check = {
-  price() {
+  price(cmd) {
     console.log('Hello from Price');
   },
 };
