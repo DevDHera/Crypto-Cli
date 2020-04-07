@@ -1,6 +1,6 @@
 {
   "name": "@devdhera/crypto-cli",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A simple Cryptocurrency price tracker for your terminal",
   "main": "index.js",
   "bin": "./bin/cryptocli.js",
