@@ -9,6 +9,10 @@
   },
   "author": "Devin Herath",
   "license": "MIT",
+  "keywords": [
+    "crypto",
+    "cli"
+  ],
   "dependencies": {
     "axios": "^0.19.2",
     "colors": "^1.4.0",
