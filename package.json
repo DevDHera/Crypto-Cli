@@ -1,6 +1,6 @@
 {
   "name": "@devdhera/crypto-cli",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "A simple Cryptocurrency price tracker for your terminal",
   "main": "index.js",
   "bin": "./bin/cryptocli.js",
@@ -22,8 +22,5 @@
   },
   "repository": {
     "url": "git://github.com/DevDHera/Crypto-Cli"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
   }
 }
